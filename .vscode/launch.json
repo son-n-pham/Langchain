@@ -1,7 +1,4 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
         {
@@ -13,8 +10,9 @@
             "justMyCode": true,
             "env": {
                 "PROXYCURL_API_KEY": "_D7b71PC6ipS97ovwJMUiA",
-                "OPENAI_API_KEY": "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"
-            },
+                "OPENAI_API_KEY": "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",
+                "SERPAPI_API_KEY": "ed8eb421500e5bba9533f470db8d90979c5bd7020557b51738e9de0eb663e089"
+            }
         }
     ]
 }
